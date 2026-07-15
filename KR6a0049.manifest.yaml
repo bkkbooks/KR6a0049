@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0049/v1
 canonical_location: https://kanripo.org/bkk/KR6a0049/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 求欲經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0049_000.yaml, hash: 'sha256:0870df9cfc64b65b5d0b1318f17ff3b2deab6ed9c3d68658ee71559b005c048e'}
-  - {seq: 1, filename: KR6a0049_001.yaml, hash: 'sha256:b071a8f35575f1fbd58c65c062c48c633fbd3d82520b2f1cfb63616e375ea1bc'}
+  - {seq: 1, filename: KR6a0049_001.yaml, hash: 'sha256:381b546f7a68889ae9198d81137c5e0df5f8592078c44cbad704835186479f6a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0049_000.markers.yaml, hash: 'sha256:5d6eb361f2be295066294aeda036168795116dc91ea97a4334486f683a5f2d1a'}
-  - {seq: 1, role: markers, filename: assets/KR6a0049_001.markers.yaml, hash: 'sha256:209bba6686ad7081e42f753022f99a7fe8979281bc7f9e722bfecf7956c5a25d'}
+  - {seq: 1, role: markers, filename: assets/KR6a0049_001.markers.yaml, hash: 'sha256:07780714635a433aacd1143a483e74e8354e401e71a4ded1f2be969e4843ed78'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說求欲經
   type: juan
   level: 1
-hash: sha256:137fac7c7c56448515f46c272cd799b79a1f50eb2f3cca17d27c6088678c2db7
+hash: sha256:9b93a808b4a256cae8136226ddcfd992520f2880f1bb8682665fa44728fb52ce
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
