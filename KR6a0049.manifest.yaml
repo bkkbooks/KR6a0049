@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0049_000.yaml, hash: 'sha256:0870df9cfc64b65b5d0b1318f17ff3b2deab6ed9c3d68658ee71559b005c048e'}
   - {seq: 1, filename: KR6a0049_001.yaml, hash: 'sha256:381b546f7a68889ae9198d81137c5e0df5f8592078c44cbad704835186479f6a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0049_000.markers.yaml, hash: 'sha256:5d6eb361f2be295066294aeda036168795116dc91ea97a4334486f683a5f2d1a'}
+  - {seq: 0, role: markers, filename: assets/KR6a0049_000.markers.yaml, hash: 'sha256:046228bfffc1c2caee3fe2ff40075fe08c285a40e2d1cecb35e86fe4a321ee90'}
   - {seq: 1, role: markers, filename: assets/KR6a0049_001.markers.yaml, hash: 'sha256:07780714635a433aacd1143a483e74e8354e401e71a4ded1f2be969e4843ed78'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 佛說求欲經
   type: juan
   level: 1
-hash: sha256:9b93a808b4a256cae8136226ddcfd992520f2880f1bb8682665fa44728fb52ce
+hash: sha256:b974d0ba37fce177ea4ea212816913f2d17c5d4c3e7c353b0d114e377dff1010
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
